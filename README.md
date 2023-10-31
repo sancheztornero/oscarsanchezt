@@ -12,9 +12,7 @@
 </div>
 
 <!--Parte de Sistemas Operativos-->
-<h3>
-> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poiret+One&size=30&duration=1&pause=1000&color=F75C00&multiline=true&random=false&width=435&lines=%3E+Operating+Systems" alt="Typing SVG" /></a>
-</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poiret+One&size=30&duration=1&pause=1000&color=F75C00&multiline=true&random=false&width=435&lines=%3E+Operating+Systems" alt="Typing SVG" /></a>
 
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/Ubuntu-black?style=flat-square&logo=ubuntu&labelColor=black&color=FF8323" width="120">
