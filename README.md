@@ -14,6 +14,6 @@
   - Languages -
 </h1>
 <div align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Ubuntu-black?style=flat-square&logo=ubuntu&labelColor=black&color=FF8323" width="100">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Ubuntu-black?style=flat-square&logo=ubuntu&labelColor=black&color=FF8323" width="150">
 </div>
 
