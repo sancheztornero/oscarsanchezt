@@ -20,7 +20,7 @@
   </tr>
 </table>
 
-<a href="https://github.com/oscarsanchezt"><img width="100%" loading="lazy" src="rainbow.webp" /></a>
+<a href="https://github.com/oscarsanchezt"><img width="100%" loading="lazy" src="assets/rainbow.webp" /></a>
 
 
 </div>
