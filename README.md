@@ -25,7 +25,7 @@
 <h1></h1>
 
 <!--Parte de Lenguajes de Programacion-->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Red+Hat+Text&size=29&duration=1&pause=1000&color=0007F7&background=FFFFFF00&multiline=true&repeat=false&random=false&width=435&lines=%3E+Programming+languages" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Red+Hat+Text&duration=1&pause=1000&color=0FF700&multiline=true&repeat=false&random=false&width=435&lines=%3E+PROGRAMMING+LANGUAGES" alt="Typing SVG" /></a>
 <div align="center">
  <img alt="Static Badge" src="https://img.shields.io/badge/Java-black?style=flat-square&logo=coffeescript&labelColor=black&color=D30C0C" width="100">
 
