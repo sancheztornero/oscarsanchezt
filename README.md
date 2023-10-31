@@ -5,12 +5,7 @@
 -->
 
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/oscarsanchezt/oscarsanchezt/blob/main/welcom%20to%20my%20profile.png"></div>
-<h3 align="center">
-        
-        <samp>&gt; Hey There!, I am
-                <b>Oscar</a></b>
-        </samp>
-</h3>
+<h3 align="center"></h3>
 <p align="center"> 
   <samp>
     <a href="https://github.com/oscarsanchezt">「 Github Me 」</a>
