@@ -21,4 +21,6 @@
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/Ubuntu-black?style=flat-square&logo=debian&labelColor=black&color=D31341" width="120">
 </div>
-
+<div>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Kali%20linux-black?style=flat-square&logo=kalilinux&labelColor=black&color=0059FF" width="120">
+</div>
