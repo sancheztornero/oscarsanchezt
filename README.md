@@ -3,12 +3,21 @@
 <!--
 **oscarsanchezt/oscarsanchezt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I enjoy programming and managing systems
+
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b>Oscar</a></b>
         </samp>
 </h3>
+<p align="center"> 
+  <samp>
+    <a href="https://github.com/oscarsanchezt">「 Github Me 」</a>
+    <br>
+    「 I enjoy programming and managing systems <b>Bangladesh</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
 
 Here are some ideas to get you started:
 
