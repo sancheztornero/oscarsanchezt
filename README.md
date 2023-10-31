@@ -25,6 +25,8 @@
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/Kali%20linux-black?style=flat-square&logo=kalilinux&labelColor=black&color=0059FF" width="120">
 </div>
+<!--Linea-->
+<h1></h1>
 
 <!--Parte de Lenguajes de Programacion-->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Red+Hat+Text&size=29&duration=1&pause=1000&color=0007F7&background=FFFFFF00&multiline=true&repeat=false&random=false&width=435&lines=%3E+Programming+languages" alt="Typing SVG" /></a>
