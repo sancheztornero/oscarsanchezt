@@ -10,7 +10,7 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&pause=1000&color=1DF6F7&random=false&width=435&lines=Welcome+to+my+profile!;Programming+Lover+%26++Linux+Lover" alt="Typing SVG" /></a>
 </div>
 
-<h1 align='center' style='color: red;'>
+<h1>
   - <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poiret+One&size=30&pause=1000&color=F75C00&random=false&width=435&lines=Operating+Systems" alt="Typing SVG" /></a> -
 </h1>
 
