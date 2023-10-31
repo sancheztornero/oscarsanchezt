@@ -11,9 +11,14 @@
 </div>
 
 <h1 align='center' style='color: red;'>
-  - Languages -
+  - Linux -
 </h1>
+
 <div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/Ubuntu-black?style=flat-square&logo=ubuntu&labelColor=black&color=FF8323" width="120">
+</div>
+
+<div align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Ubuntu-black?style=flat-square&logo=debian&labelColor=black&color=D31341" width="120">
 </div>
 
