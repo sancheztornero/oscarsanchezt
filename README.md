@@ -1,8 +1,14 @@
-### Hi there 👋
+### Hi, Hola 👋
 
 <!--
 **oscarsanchezt/oscarsanchezt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+I enjoy programming and managing systems
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b>Oscar</a></b>
+        </samp>
+</h3>
 
 Here are some ideas to get you started:
 
