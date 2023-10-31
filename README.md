@@ -17,12 +17,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poiret+One&size=29&duration=1&pause=1000&color=F75C00&background=FFFFFF00&multiline=true&repeat=false&random=false&width=435&lines=%3E+Operating+Systems" alt="Typing SVG" /></a>
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/Ubuntu-black?style=flat-square&logo=ubuntu&labelColor=black&color=FF8323" width="120">
-</div>
 
-<div>
   <img alt="Static Badge" src="https://img.shields.io/badge/Ubuntu-black?style=flat-square&logo=debian&labelColor=black&color=D31341" width="120">
-</div>
-<div>
+
   <img alt="Static Badge" src="https://img.shields.io/badge/Kali%20linux-black?style=flat-square&logo=kalilinux&labelColor=black&color=0059FF" width="120">
 </div>
 <!--Linea-->
