@@ -6,7 +6,7 @@
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/oscarsanchezt/oscarsanchezt/blob/main/welcom%20to%20my%20profile.png">
   
 </div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DM+Mono&pause=1000&color=07DEF7&multiline=true&repeat=false&random=false&width=435&lines=%3E+MY+OPERATING+SYSTEM+IS;%3A+Zorin+OS" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%3E+MY+OPERATING+SYSTEM+IS;%3A+Zorin+OS" alt="Typing SVG" /></a>
 
 <!--Mi sistema Operativo
 <div align="center">
