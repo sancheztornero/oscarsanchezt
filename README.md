@@ -9,7 +9,7 @@
 <h1></h1>
 
 <!--Parte de Sistemas Operativos-->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Red+Hat+Text&duration=1&pause=1000&color=0FF700&multiline=true&repeat=false&random=false&width=435&lines=%3E+OPERATING+SYSTEMS" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Red+Hat+Text&pause=1000&color=0FF700&multiline=true&repeat=false&random=false&width=435&lines=%3E+OPERATING+SYSTEMS+%26+PROGRAMMING+LANGUAGES" alt="Typing SVG" /></a>
 <div>
    
 <img alt="Static Badge" src="https://img.shields.io/badge/Ubuntu-black?style=flat-square&logo=ubuntu&labelColor=black&color=FF8323" width="120">
@@ -20,6 +20,10 @@
 
 <img alt="Static Badge" src="https://img.shields.io/badge/CentOS-black?style=flat-square&logo=centos&logoColor=68FF00&labelColor=black&color=68FF00" width="120">
 
+<div align="center">
+ <img alt="Static Badge" src="https://img.shields.io/badge/Java-black?style=flat-square&logo=coffeescript&labelColor=black&color=D30C0C" width="100">
+
+</div>
 </div>
 <!--Linea-->
 <h1></h1>
