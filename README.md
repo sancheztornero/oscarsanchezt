@@ -16,9 +16,10 @@
 <!--Parte de Sistemas Operativos-->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poiret+One&size=29&duration=1&pause=1000&color=F75C00&background=FFFFFF00&multiline=true&repeat=false&random=false&width=435&lines=%3E+Operating+Systems" alt="Typing SVG" /></a>
 <div align="center">
+   
 <img alt="Static Badge" src="https://img.shields.io/badge/Ubuntu-black?style=flat-square&logo=ubuntu&labelColor=black&color=FF8323" width="120">
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Debian-black?style=flat-square&logo=debian&labelColor=black&color=%23D60A51" width="120">
+<img alt="Static Badge" src="https://img.shields.io/badge/Debian-black?style=flat-square&logo=debian&logoColor=d70a53&labelColor=black&color=%23D60A51" width="120">
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Kali%20linux-black?style=flat-square&logo=kalilinux&labelColor=black&color=0059FF" width="140">
 </div>
