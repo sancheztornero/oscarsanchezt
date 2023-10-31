@@ -5,20 +5,16 @@
 <div align="center">
   <img width="100%" alt="welcome to my profile!" src="https://github.com/oscarsanchezt/oscarsanchezt/blob/main/welcom%20to%20my%20profile.png">
                                       
-<table class="default">
+<table class="default" >
     
   <tr>
     <td>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=00F6F7&multiline=true&random=false&width=435&lines=%3E+My+operating+system+is+;%3A+Zorin+OS" alt="Typing SVG" /></a>
     </td>
     <td>
-     <img width="30" alt="ZorinOS" src="https://github.com/oscarsanchezt/oscarsanchezt/blob/main/Zorin.png">
-    <td>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=F77500&multiline=true&random=false&width=435&lines=%3E+My+programming+is;%3A+Java" alt="Typing SVG" /></a>
     </td>
     <td>
-      <img width="30" alt="Java" src="https://github.com/oscarsanchezt/oscarsanchezt/blob/main/Java.png">
-     <td>
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=C106EE&multiline=true&random=false&width=435&lines=%3E+My+pet+is;%3A+Cat" alt="Typing SVG" /></a>
     </td>
   </tr>
