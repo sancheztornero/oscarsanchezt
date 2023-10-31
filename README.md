@@ -20,7 +20,7 @@
 
   <img alt="Static Badge" src="https://img.shields.io/badge/Ubuntu-black?style=flat-square&logo=debian&labelColor=black&color=D31341" width="120">
 
-  <img alt="Static Badge" src="https://img.shields.io/badge/Kali%20linux-black?style=flat-square&logo=kalilinux&labelColor=black&color=0059FF" width="130">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Kali%20linux-black?style=flat-square&logo=kalilinux&labelColor=black&color=0059FF" width="140">
 </div>
 <!--Linea-->
 <h1></h1>
