@@ -22,6 +22,8 @@
 <!--Programacion-->
 <div>
  <img alt="Static Badge" src="https://img.shields.io/badge/Java-black?style=flat-square&logo=coffeescript&labelColor=black&color=D30C0C" width="100">
+   
+ <img alt="Static Badge" src="https://img.shields.io/badge/python-black?style=flat-square&logo=python&labelColor=black&color=00B2FF" width="100">
 
 </div>
 </div>
