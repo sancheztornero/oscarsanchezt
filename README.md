@@ -1,10 +1,12 @@
 <!--
 **oscarsanchezt/oscarsanchezt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<!--Logo-->
-<div align="center">
-  <img width="100%" alt="welcome to my profile!" src="https://github.com/oscarsanchezt/oscarsanchezt/blob/main/welcom%20to%20my%20profile.png">
-  
+
+
+
+<!--Inicio-->
+## Hola mundo
+
   <!--Tabla-->                                      
 <table class="default" >
   <tr>
@@ -21,7 +23,7 @@
 </table>
 
 <!--Contador-->
-<table>
+<table align="center">
   <tr>
     <td>
     <img alt="Static Badge" src="https://img.shields.io/badge/Visitor%20Count-black?style=for-the-badge&logo=github" width="160">
@@ -30,11 +32,37 @@
   </tr>
 </table>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--Fin-->
 <div>
   <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&width=500&section=footer"/>
 </div>
 
+<!------------------------------------PRUEBAS DE CODIGO---------------------------------------->
+
+<!--Logo
+<img width="100%" alt="welcome to my profile!" src="https://github.com/oscarsanchezt/oscarsanchezt/blob/main/welcom%20to%20my%20profile.png">
+ --> 
 
 <!--Linea Rainbow
 <div>
@@ -46,19 +74,9 @@
 <a href="https://github.com/oscarsanchezt"><img width="100%" loading="lazy" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" /></a>
 -->
 
-
-
-
-
-
-
-
-
-
-
 <!--Mi sistema Operativo
 <div align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/MY%20OPERATING%20SYSTEM%20---%20%20-black?style=flat-square&logo=linux&logoColor=54CBFF&labelColor=black" width="200">
+  <img alt="Static Badge" src="https://img.shields.io/badge/MY%20OPERATING%20SYSTEM%20---%20%20-black?style=flat-square&logo=linux&logoColor=54CBFF&labelColor=black" width="200">
 
 <img alt="Static Badge" src="https://img.shields.io/badge/ZORIN%20OS-black?style=flat-square&logo=zorin&logoColor=54CBFF&labelColor=black" width="102">
 </div>-->
