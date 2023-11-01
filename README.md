@@ -20,11 +20,27 @@
   </tr>
 </table>
 
+<table class="Contador">
+  <tr>
+    <td>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Visitor%20Count-black?style=for-the-badge&logo=github" width="160">
+    <img src="https://profile-counter.glitch.me/{oscarsanchezt}/count.svg" align="right"/>
+    </td>
+  </tr>
+</table>
+
+
+
 <div>
-  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&width=500&section=footer"/>
-  <a href="https://github.com/oscarsanchezt"><img width="100%" loading="lazy" src="assets/rainbow.webp" /></a>
+  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&width=500&section=footer"/>
 </div>
 
+
+<!--Linea Rainbow
+<div>
+  <a href="https://github.com/oscarsanchezt"><img width="100%" loading="lazy" src="assets/rainbow.webp" /></a>
+</div>
+-->
 
 <!--Mi sistema Operativo
 <div align="center">
