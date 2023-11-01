@@ -4,22 +4,24 @@
 <!--Logo-->
 <div align="center">
   <img width="100%" alt="welcome to my profile!" src="https://github.com/oscarsanchezt/oscarsanchezt/blob/main/welcom%20to%20my%20profile.png">
-                                      
+  
+  <!--Tabla-->                                      
 <table class="default" >
   <tr>
-    <td>
+      <td>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=00F6F7&multiline=true&random=false&width=435&lines=%3E+My+operating+system+is+;%3A+Zorin+OS" alt="Typing SVG" /></a>
-    </td>
-    <td>
+      </td>
+      <td>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=F77500&multiline=true&random=false&width=435&lines=%3E+My+programming+is;%3A+Java" alt="Typing SVG" /></a>
-    </td>
-    <td>
+      </td>
+      <td>
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=C106EE&multiline=true&random=false&width=435&lines=%3E+My+pet+is;%3A+Cat" alt="Typing SVG" /></a>
-    </td>
-  </tr>
+      </td>
+    </tr>
 </table>
 
-<table class="Contador">
+<!--Contador-->
+<table>
   <tr>
     <td>
     <img alt="Static Badge" src="https://img.shields.io/badge/Visitor%20Count-black?style=for-the-badge&logo=github" width="160">
@@ -28,8 +30,7 @@
   </tr>
 </table>
 
-
-
+<!--Fin-->
 <div>
   <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&width=500&section=footer"/>
 </div>
@@ -40,6 +41,20 @@
   <a href="https://github.com/oscarsanchezt"><img width="100%" loading="lazy" src="assets/rainbow.webp" /></a>
 </div>
 -->
+
+<!--Separador
+<a href="https://github.com/oscarsanchezt"><img width="100%" loading="lazy" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" /></a>
+-->
+
+
+
+
+
+
+
+
+
+
 
 <!--Mi sistema Operativo
 <div align="center">
