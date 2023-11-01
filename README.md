@@ -6,7 +6,6 @@
   <img width="100%" alt="welcome to my profile!" src="https://github.com/oscarsanchezt/oscarsanchezt/blob/main/welcom%20to%20my%20profile.png">
                                       
 <table class="default" >
-    
   <tr>
     <td>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=00F6F7&multiline=true&random=false&width=435&lines=%3E+My+operating+system+is+;%3A+Zorin+OS" alt="Typing SVG" /></a>
