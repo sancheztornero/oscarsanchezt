@@ -8,9 +8,9 @@
 <img src="https://github.com/oscarsanchezt/oscarsanchezt/blob/main/assets/retrogif_cut.gif" />
 
   <!--Tabla-->                                      
-<table class="default" >
+<table WIDTH="50%">
   <tr>
-      <td>
+      <td >
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=00F6F7&multiline=true&random=false&width=435&lines=%3E+My+operating+system+is+;%3A+Zorin+OS" alt="Typing SVG" /></a>
       </td>
       <td>
@@ -26,7 +26,7 @@
 <table align="center">
   <tr>
     <td>
-    <img alt="Static Badge" src="https://img.shields.io/badge/Visitor%20Count-black?style=for-the-badge&logo=github" width="160">
+    <img src="https://img.shields.io/badge/%F0%9D%9A%85%F0%9D%99%B8%F0%9D%9A%82%F0%9D%99%B8%F0%9D%9A%83%F0%9D%99%BE%F0%9D%9A%81%20%F0%9D%99%B2%F0%9D%99%BE%F0%9D%9A%84%F0%9D%99%BD%F0%9D%9A%83-black?logo=github&logoColor=green&link=https%3A%2F%2Fhub.docker.com%2Fu%2Falumnodam" width="230">
     <img src="https://profile-counter.glitch.me/{oscarsanchezt}/count.svg" align="right"/>
     </td>
   </tr>
