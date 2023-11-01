@@ -20,9 +20,9 @@
   </tr>
 </table>
 
-<a href="https://github.com/oscarsanchezt"><img width="100%" loading="lazy" src="assets/rainbow.webp" /></a>
-
-
+<div>
+  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&width=500&section=footer"/>
+  <a href="https://github.com/oscarsanchezt"><img width="100%" loading="lazy" src="assets/rainbow.webp" /></a>
 </div>
 
 
