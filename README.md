@@ -49,7 +49,7 @@
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oscarsanchezt&show_icons=true&theme=radical" />
     </td>
     <td>
-      <img height=200 align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarsanchezt&layout=donut&theme=radical">
+      <img height=200 align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarsanchezt&layout=compact&theme=radical">
     </td>
   </tr>
 </table>
