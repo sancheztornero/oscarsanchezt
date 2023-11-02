@@ -36,9 +36,21 @@
 </table>
 <hr>
 </hr>
-
-
-
+  
+  
+ <table align="center">
+  <tr>
+    <tr>
+        <td colspan="2">My STATS</td>
+        </tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=oscarsanchezt&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarsanchezt&layout=donut&theme=radical">
+    </td>
+  </tr>
+</table>
 
 
 
