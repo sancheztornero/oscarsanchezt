@@ -41,7 +41,9 @@
  <table align="center">
   <tr>
     <tr>
-        <td colspan="2">My STATS</td>
+        <td colspan="2" align="center">
+          Look at my Stats
+        </td>
         </tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=oscarsanchezt&show_icons=true&theme=radical" />
@@ -69,7 +71,7 @@
 -->
 
 <!--Logo
-<img width="100%" alt="welcome to my profile!" src="https://github.com/oscarsanchezt/oscarsanchezt/blob/main/welcom%20to%20my%20profile.png">
+<img width="100%" alt="welcome to my profile!" src="https://github.com/oscarsanchezt/oscarsanchezt/blob/main/assets/my_stats_git.gif">
  --> 
 
 <!--Linea Rainbow
