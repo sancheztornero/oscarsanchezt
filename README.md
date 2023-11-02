@@ -42,7 +42,7 @@
   <tr>
     <tr>
         <td colspan="2" align="center">
-          Look at my Stats
+           Look at my Stats
         </td>
         </tr>
     <td>
