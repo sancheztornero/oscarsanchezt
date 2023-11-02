@@ -5,6 +5,9 @@
 
 
 <!--Inicio-->
+<hr>
+</hr>
+
 <img src="https://github.com/oscarsanchezt/oscarsanchezt/blob/main/assets/retrogif_cut.gif" />
 
   <!--Tabla-->                                      
@@ -32,9 +35,12 @@
   </tr>
 </table>
 
+<hr>
+</hr>
 
 
-
+<hr>
+</hr>
 
 
 
