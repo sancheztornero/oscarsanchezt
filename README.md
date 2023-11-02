@@ -50,15 +50,14 @@
 
 
 
+<!------------------------------------PRUEBAS DE CODIGO---------------------------------------->
 
 
-
-<!--Fin-->
+<!--Fin
 <div>
   <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&width=500&section=footer"/>
 </div>
-
-<!------------------------------------PRUEBAS DE CODIGO---------------------------------------->
+-->
 
 <!--Logo
 <img width="100%" alt="welcome to my profile!" src="https://github.com/oscarsanchezt/oscarsanchezt/blob/main/welcom%20to%20my%20profile.png">
