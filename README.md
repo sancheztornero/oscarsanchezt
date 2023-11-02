@@ -46,15 +46,17 @@
         </td>
         </tr>
     <td>
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oscarsanchezt&show_icons=true&theme=radical" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oscarsanchezt&show_icons=true&theme=blue-green" />
     </td>
     <td>
-      <img height=200 align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarsanchezt&layout=compact&theme=radical">
+      <img height=200 align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarsanchezt&layout=compact&theme=blue-green">
     </td>
   </tr>
 </table>
 
 
+<br>
+</br>
 
 
 
@@ -112,3 +114,19 @@
 <!--Linea
 <h1></h1>
 -->
+
+<!--Otras Stats 
+ <table align="center">
+  <tr>
+    <tr>
+        <td colspan="2" align="center">
+           Tecnologias
+        </td>
+        </tr>
+    <td>
+      <img height=200 align="center" src="https://streak-stats.demolab.com?user=oscarsanchezt&theme=windows-dark&locale=es&exclude_days=Wed" alt="GitHub Streak" />
+    </td>
+</table>
+-->
+
+
